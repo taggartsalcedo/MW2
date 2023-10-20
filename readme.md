@@ -4,3 +4,10 @@ My personal website will be a site for any future customers or emplyoess to get 
 
 Each page should be linked together and easy for the user to navigate but unique enough for any potential interested
 parties to catch their attention.
+
+****THIS IS A VARIATION****
+
+With the aquired knowledge the goal is to create a website that is put together and is fluent for a user to navigate.
+
+*********************
+
