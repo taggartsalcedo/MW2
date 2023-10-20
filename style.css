@@ -19,14 +19,37 @@
 .message {
     background-color: lightgray;
     border: 5px solid black;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-bottom: 100px;
-    margin-top: 100px;
+    margin: auto;
+    margin-top: 250px;
+    width: 500px;
+    text-align: center
+}
+
+
+.main1 {
+    align-items: center;
 }
 
 .main2 {
     border: solid white;
-    
 }
 
+.headshot {
+    display: flex-wrap;
+    height: auto;
+    width: 250px;
+}
+
+.first {
+    border: solid beige 2px;
+    margin-bottom: 5px;
+}
+
+.second {
+    border: solid beige 2px;
+    margin-bottom: 5px;
+}
+
+.third {
+    border: solid beige 2px;
+}
